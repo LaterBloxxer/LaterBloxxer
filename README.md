@@ -1,9 +1,9 @@
 <h1 align="center">Hello 👋, I'm Mikolaj Rutyna (or just Miko)</h1>
 <h3 align="center">A multidisciplinary guy who loves to work on many creative aspects of programming.</h3>
 
-- 🔭 I’m currently working on **a Rocket League type game where I use neural networks to teach an AI to play it.**
+- 👾 Participating in Goldsmith's **Global Game Jam**!
 
-- 🌱 I’m currently learning **OpenFrameworks**, **Box2D**, **C++**, and **Neural Networks**
+- 🌱 I’m currently learning **OpenFrameworks**, **Box2D**, **C++**, and **music production**.
 
 - 👨‍💻 All of my projects are available at [https://mikosriko.github.io](https://mikosriko.github.io)
 
