@@ -1,9 +1,9 @@
 <h1 align="center">Hello 👋, I'm Mikolaj Rutyna (or just Miko)</h1>
 <h3 align="center">A multidisciplinary guy who loves to work on many creative aspects of programming.</h3>
 
-- 👾 Participating in Goldsmith's **Global Game Jam**!
+- 👾 Participated in Goldsmith's **Global Game Jam**!
 
-- 🌱 I’m currently learning **OpenFrameworks**, **Box2D**, **C++**, and **music production**.
+- 🌱 I’m currently learning **Godot**, and **music production**.
 
 - 👨‍💻 All of my projects are available at [https://mikosriko.github.io](https://mikosriko.github.io)
 
