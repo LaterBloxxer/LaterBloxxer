@@ -1,4 +1,4 @@
-<h1 align="center">Hello 👋, I'm Mikolaj Rutyna (or just Miko)</h1>
+<h1 align="center">👋 Hello!, I'm Mikolaj Rutyna (Miko is fine!)</h1>
 <h3 align="center">A multidisciplinary guy who loves to work on many creative aspects of programming.</h3>
 
 - 👾 Participated in Goldsmith's **Global Game Jam**!
